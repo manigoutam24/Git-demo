@@ -1,2 +1,2 @@
 # Git-demo
-This is a git and github demo session
+This is a git &amp; github demo session.
